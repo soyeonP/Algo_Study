@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//쉽네요.
 public class Solution_1486_정훈이의높은선반 {
 	static int N ;
 	static int [] arr;
